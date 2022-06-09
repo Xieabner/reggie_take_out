@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a150e151-00ec-4a66-9608-1dcdcd4e7090" name="Default Changelist" comment="text..." />
+    <list default="true" id="a150e151-00ec-4a66-9608-1dcdcd4e7090" name="Default Changelist" comment="text...">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jies" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jies" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +72,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -169,7 +174,7 @@
       <workItem from="1654701362500" duration="6246000" />
       <workItem from="1654708040985" duration="10777000" />
       <workItem from="1654788140627" duration="5519000" />
-      <workItem from="1654793870062" duration="618000" />
+      <workItem from="1654793870062" duration="1056000" />
     </task>
     <task id="LOCAL-00001" summary="text...">
       <created>1654789033762</created>
@@ -206,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654792815679</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="text...">
+      <created>1654794837433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654794837433</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
